@@ -16,6 +16,6 @@
     <p>
         ▷ current project: chrome ext.<br>
         ▷ last project: <a href="https://github.com/lumamoto/queerify">queerify</a><br>
-        ▷ next project: tbd<br>
+        ▷ next project: <a href="https://init.mlh.io">global hack week: init 2023</a><br>
     </p>
 </div>
