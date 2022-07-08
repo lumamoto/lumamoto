@@ -14,8 +14,8 @@
         ▷ <a href="https://devpost.com/lumamoto">casual hacker</a><br>
     </p>
     <p>
-        ▷ current project: chrome ext.<br>
+        ▷ current project: <a href="https://init.mlh.io">global hack week: init 2023</a><br>
         ▷ last project: <a href="https://github.com/lumamoto/queerify">queerify</a><br>
-        ▷ next project: <a href="https://init.mlh.io">global hack week: init 2023</a><br>
+        ▷ next project: tbd
     </p>
 </div>
