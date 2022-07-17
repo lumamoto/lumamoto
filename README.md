@@ -14,8 +14,8 @@
         ▷ <a href="https://devpost.com/lumamoto">casual hacker</a><br>
     </p>
     <p>
-        ▷ current project: <a href="https://init.mlh.io">global hack week: init 2023</a><br>
-        ▷ last project: <a href="https://github.com/lumamoto/queerify">queerify</a><br>
+        ▷ current project: learning <a href="https://www.rust-lang.org/">rust</a><br>
+        ▷ last project: <a href="https://github.com/lumamoto/wwwordle">wwwordle</a><br>
         ▷ next project: learn <a href="https://godotengine.org">godot</a>
     </p>
 </div>
