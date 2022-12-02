@@ -14,7 +14,7 @@
         ▷ <a href="https://devpost.com/lumamoto">casual hacker</a><br>
     </p>
     <p>
-        ▷ current project: advent of code 2022!
+        ▷ current project: <a href="https://adventofcode.com/">advent of code 2022</a><br>
         ▷ last project: <a href="https://github.com/lumamoto/wwwordle">wwwordle</a><br>
         ▷ next project: ???
     </p>
