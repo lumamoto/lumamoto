@@ -14,8 +14,8 @@
         ▷ <a href="https://devpost.com/lumamoto">casual hacker</a><br>
     </p>
     <p>
-        ▷ current project: learning <a href="https://www.rust-lang.org/">rust</a><br>
+        ▷ current project: advent of code 2022!
         ▷ last project: <a href="https://github.com/lumamoto/wwwordle">wwwordle</a><br>
-        ▷ next project: learn <a href="https://godotengine.org">godot</a>
+        ▷ next project: ???
     </p>
 </div>
