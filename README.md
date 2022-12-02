@@ -8,7 +8,7 @@
 <div>
     <h3>hi, i'm lacey!</h3>
     <p>
-        ▷ she/they<br>
+        ▷ any pronouns<br>
         ▷ software engineer<br>
         ▷ b.s. computer science ('20)<br>
         ▷ <a href="https://devpost.com/lumamoto">casual hacker</a><br>
