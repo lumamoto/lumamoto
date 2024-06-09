@@ -10,11 +10,11 @@
     <p>
         ▷ any pronouns<br>
         ▷ software engineer<br>
-        ▷ b.s. computer science ('20)<br>
+        ▷ b.s. computer science<br>
         ▷ <a href="https://devpost.com/lumamoto">casual hacker</a><br>
     </p>
     <p>
-        ▷ current project: ???<br>
+        ▷ current project: multiplayer web game<br>
         ▷ last project: <a href="https://github.com/lumamoto/wwwordle">wwwordle</a><br>
         ▷ next project: ???
     </p>
